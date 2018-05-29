@@ -1,6 +1,6 @@
 {
   "name": "taglr-autocomplete",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Auto complete equivalent",
   "main": "./build/lib/Autocomplete.js",
   "files": [
